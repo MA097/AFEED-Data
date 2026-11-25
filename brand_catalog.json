@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "revision": 2026112501,
+  "review_status": "approved",
+  "brands": [
+    {
+      "brand": "Little Swan",
+      "categories": [
+        "غسالة"
+      ],
+      "region": "CN",
+      "aliases": [
+        "ليتل سوان",
+        "小天鹅"
+      ],
+      "source_url": "https://www.midea.com.cn/en/our-businesses/Smart-Home-Business-Unit/little-swan?wcmmode=disabled",
+      "region_source_url": "https://www.midea.com.cn/en/our-businesses/Smart-Home-Business-Unit",
+      "checked_date": "2026-11-25",
+      "source_scope": "brand_and_product_family_only"
+    },
+    {
+      "brand": "Casarte",
+      "categories": [
+        "غسالة",
+        "ثلاجة",
+        "مكيف"
+      ],
+      "region": "CN",
+      "aliases": [
+        "كاسارتي",
+        "卡萨帝"
+      ],
+      "source_url": "https://www.haier.com/global/haier_casarte/",
+      "region_source_url": "https://www.haier.com/sa/about-haier/haier-group/",
+      "checked_date": "2026-11-25",
+      "source_scope": "brand_and_product_family_only"
+    },
+    {
+      "brand": "Leader",
+      "categories": [
+        "غسالة",
+        "مكيف"
+      ],
+      "region": "CN",
+      "aliases": [
+        "ليدر",
+        "统帅"
+      ],
+      "source_url": "https://www.haier.com/global/press-events/news/20260402_288863.shtml",
+      "region_source_url": "https://www.haier.com/sa/about-haier/haier-group/",
+      "checked_date": "2026-11-25",
+      "source_scope": "brand_and_product_family_only"
+    },
+    {
+      "brand": "KEAZ",
+      "categories": [
+        "حماية وتوزيع كهربائي"
+      ],
+      "region": "RU",
+      "aliases": [
+        "كياز",
+        "КЭАЗ"
+      ],
+      "source_url": "https://keaz.ru/catalog",
+      "region_source_url": "https://keaz.ru/",
+      "checked_date": "2026-11-25",
+      "source_scope": "brand_and_product_family_only"
+    },
+    {
+      "brand": "Roborock",
+      "categories": [
+        "مكنسة"
+      ],
+      "region": "CN",
+      "aliases": [
+        "روبوروك",
+        "石头科技"
+      ],
+      "source_url": "https://ae.roborock.com/pages/about-us",
+      "region_source_url": "https://sa.roborock.com/pages/about-us",
+      "checked_date": "2026-11-25",
+      "source_scope": "brand_and_product_family_only"
+    }
+  ]
+}
