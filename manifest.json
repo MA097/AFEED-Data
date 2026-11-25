@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "revision": 2026112501,
+  "feeds": {
+    "brands": {
+      "path": "brand_catalog.json",
+      "count": 5,
+      "revision": 2026112501
+    }
+  },
+  "scope": "approved public brand metadata only"
+}
